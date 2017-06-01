@@ -1,0 +1,22 @@
+.box-image {
+  width: 100%;
+}
+
+#joker {
+  display: block;
+  width: 60vw;
+  margin: auto;
+  padding: 2vw;
+}
+
+@media screen and (min-width: 769px) {
+
+  #joker {
+    width: 25vw;
+    float: left;
+    display: inline-block;
+  }
+
+
+
+}
